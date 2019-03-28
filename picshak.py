@@ -51,3 +51,9 @@ while True:
     pygame.display.update()
 #结束
 pygame.quit()
+
+
+
+ftyfty
+
+
